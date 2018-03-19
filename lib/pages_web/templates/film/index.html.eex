@@ -1,5 +1,5 @@
 <div class="jumbotron">
-  <h2><%= gettext "Welcome to %{name}!", name: "Phoenix" %></h2>
+  <h2><%= gettext "This is %{name}!", name: "Film Home" %></h2>
   <p class="lead">A productive web framework that<br />does not compromise speed and maintainability.</p>
 </div>
 
@@ -8,7 +8,7 @@
     <h4>Resources</h4>
     <ul>
       <li>
-        <a href="film">Film home</a>
+        <a href="http://phoenixframework.org/docs/overview">Guides</a>
       </li>
       <li>
         <a href="https://hexdocs.pm/phoenix">Docs</a>
