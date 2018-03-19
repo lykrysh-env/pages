@@ -11,10 +11,10 @@
         <a href="film">Film home</a>
       </li>
       <li>
-        <a href="https://hexdocs.pm/phoenix">Docs</a>
+        <a href="film/first-movie">first movie</a>
       </li>
       <li>
-        <a href="https://github.com/phoenixframework/phoenix">Source</a>
+        <a href="film/second-movie">second movie</a>
       </li>
     </ul>
   </div>
