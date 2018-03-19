@@ -1,0 +1,33 @@
+<div class="jumbotron">
+  <h2>Yey It's editorial home</h2>
+  <p class="lead">whatever bullshit</p>
+</div>
+
+<div class="row marketing">
+  <div class="col-lg-6">
+    <h4>Resources</h4>
+    <ul>
+      <li>
+        <a href="../editorial/third-movie">third movie</a>
+      </li>
+      <li>
+        <a href="../editorial/fourth-movie">fourth movie</a>
+      </li>
+      <li>
+        <a href="../editorial/fifth-movie">fifth movie</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-lg-6">
+    <h4>Help</h4>
+    <ul>
+      <li>
+        <a href="../">home</a>
+      </li>
+      <li>
+        <a href="../film">film home</a>
+      </li>
+    </ul>
+  </div>
+</div>

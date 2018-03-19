@@ -20,6 +20,7 @@ defmodule PagesWeb.Router do
     get "/film", FilmController, :index
     get "/film/:title", FilmController, :show
     get "/support/:title", SupportController, :show
+    get "/editorial", EditorialController, :index
     get "/editorial/:title", EditorialController, :show
   end
 
