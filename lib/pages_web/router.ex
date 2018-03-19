@@ -19,6 +19,7 @@ defmodule PagesWeb.Router do
     get "/", PageController, :index
     get "/film", FilmController, :index
     get "/film/:title", FilmController, :show
+    get "/support/:title", SupportController, :show
   end
 
   # Other scopes may use custom stacks.
